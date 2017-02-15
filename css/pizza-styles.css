@@ -113,7 +113,7 @@ main {
 }
 
 .table-condensed>tbody>.itemChoices>td {
-   padding: 0 5px;
+   padding: 1px 5px;
    font-size: 13px;
 }
 
